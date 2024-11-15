@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dankoto88
-- 👀 I’m interested in Gaming and Cooding
-- 🌱 I’m currently learning Java and LUA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord and Instagram
+- 👋 Hi, I’m @Dani
+- ✈️ Wannabe FBW Contributor
+- 💻 HTML& CSS, Lua Developer
+- 📇 Contact me via discord : Dankoto
 
 <!---
 Dankoto88/Dankoto88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
